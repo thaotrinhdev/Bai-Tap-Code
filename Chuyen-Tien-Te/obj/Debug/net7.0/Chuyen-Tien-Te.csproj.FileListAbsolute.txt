@@ -1,0 +1,15 @@
+D:\Thao trinh\Dev\Bai-Tap-Code\Chuyen-Tien-Te\bin\Debug\net7.0\Chuyen-Tien-Te.exe
+D:\Thao trinh\Dev\Bai-Tap-Code\Chuyen-Tien-Te\bin\Debug\net7.0\Chuyen-Tien-Te.deps.json
+D:\Thao trinh\Dev\Bai-Tap-Code\Chuyen-Tien-Te\bin\Debug\net7.0\Chuyen-Tien-Te.runtimeconfig.json
+D:\Thao trinh\Dev\Bai-Tap-Code\Chuyen-Tien-Te\bin\Debug\net7.0\Chuyen-Tien-Te.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Chuyen-Tien-Te\bin\Debug\net7.0\Chuyen-Tien-Te.pdb
+D:\Thao trinh\Dev\Bai-Tap-Code\Chuyen-Tien-Te\obj\Debug\net7.0\Chuyen-Tien-Te.csproj.AssemblyReference.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Chuyen-Tien-Te\obj\Debug\net7.0\Chuyen-Tien-Te.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thao trinh\Dev\Bai-Tap-Code\Chuyen-Tien-Te\obj\Debug\net7.0\Chuyen-Tien-Te.AssemblyInfoInputs.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Chuyen-Tien-Te\obj\Debug\net7.0\Chuyen-Tien-Te.AssemblyInfo.cs
+D:\Thao trinh\Dev\Bai-Tap-Code\Chuyen-Tien-Te\obj\Debug\net7.0\Chuyen-Tien-Te.csproj.CoreCompileInputs.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Chuyen-Tien-Te\obj\Debug\net7.0\Chuyen-Tien-Te.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Chuyen-Tien-Te\obj\Debug\net7.0\refint\Chuyen-Tien-Te.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Chuyen-Tien-Te\obj\Debug\net7.0\Chuyen-Tien-Te.pdb
+D:\Thao trinh\Dev\Bai-Tap-Code\Chuyen-Tien-Te\obj\Debug\net7.0\Chuyen-Tien-Te.genruntimeconfig.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Chuyen-Tien-Te\obj\Debug\net7.0\ref\Chuyen-Tien-Te.dll
