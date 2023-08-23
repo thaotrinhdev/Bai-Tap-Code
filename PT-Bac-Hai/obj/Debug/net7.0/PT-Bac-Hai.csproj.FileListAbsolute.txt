@@ -1,0 +1,15 @@
+D:\Thao trinh\Dev\Bai-Tap-Code\PT-Bac-Hai\bin\Debug\net7.0\PT-Bac-Hai.exe
+D:\Thao trinh\Dev\Bai-Tap-Code\PT-Bac-Hai\bin\Debug\net7.0\PT-Bac-Hai.deps.json
+D:\Thao trinh\Dev\Bai-Tap-Code\PT-Bac-Hai\bin\Debug\net7.0\PT-Bac-Hai.runtimeconfig.json
+D:\Thao trinh\Dev\Bai-Tap-Code\PT-Bac-Hai\bin\Debug\net7.0\PT-Bac-Hai.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\PT-Bac-Hai\bin\Debug\net7.0\PT-Bac-Hai.pdb
+D:\Thao trinh\Dev\Bai-Tap-Code\PT-Bac-Hai\obj\Debug\net7.0\PT-Bac-Hai.csproj.AssemblyReference.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\PT-Bac-Hai\obj\Debug\net7.0\PT-Bac-Hai.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thao trinh\Dev\Bai-Tap-Code\PT-Bac-Hai\obj\Debug\net7.0\PT-Bac-Hai.AssemblyInfoInputs.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\PT-Bac-Hai\obj\Debug\net7.0\PT-Bac-Hai.AssemblyInfo.cs
+D:\Thao trinh\Dev\Bai-Tap-Code\PT-Bac-Hai\obj\Debug\net7.0\PT-Bac-Hai.csproj.CoreCompileInputs.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\PT-Bac-Hai\obj\Debug\net7.0\PT-Bac-Hai.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\PT-Bac-Hai\obj\Debug\net7.0\refint\PT-Bac-Hai.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\PT-Bac-Hai\obj\Debug\net7.0\PT-Bac-Hai.pdb
+D:\Thao trinh\Dev\Bai-Tap-Code\PT-Bac-Hai\obj\Debug\net7.0\PT-Bac-Hai.genruntimeconfig.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\PT-Bac-Hai\obj\Debug\net7.0\ref\PT-Bac-Hai.dll
