@@ -1,0 +1,15 @@
+D:\Thao trinh\Dev\Bai-Tap-Code\Hien-Thi-Cac-Loai-Hinh\bin\Debug\net7.0\Hien-Thi-Cac-Loai-Hinh.exe
+D:\Thao trinh\Dev\Bai-Tap-Code\Hien-Thi-Cac-Loai-Hinh\bin\Debug\net7.0\Hien-Thi-Cac-Loai-Hinh.deps.json
+D:\Thao trinh\Dev\Bai-Tap-Code\Hien-Thi-Cac-Loai-Hinh\bin\Debug\net7.0\Hien-Thi-Cac-Loai-Hinh.runtimeconfig.json
+D:\Thao trinh\Dev\Bai-Tap-Code\Hien-Thi-Cac-Loai-Hinh\bin\Debug\net7.0\Hien-Thi-Cac-Loai-Hinh.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Hien-Thi-Cac-Loai-Hinh\bin\Debug\net7.0\Hien-Thi-Cac-Loai-Hinh.pdb
+D:\Thao trinh\Dev\Bai-Tap-Code\Hien-Thi-Cac-Loai-Hinh\obj\Debug\net7.0\Hien-Thi-Cac-Loai-Hinh.csproj.AssemblyReference.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Hien-Thi-Cac-Loai-Hinh\obj\Debug\net7.0\Hien-Thi-Cac-Loai-Hinh.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thao trinh\Dev\Bai-Tap-Code\Hien-Thi-Cac-Loai-Hinh\obj\Debug\net7.0\Hien-Thi-Cac-Loai-Hinh.AssemblyInfoInputs.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Hien-Thi-Cac-Loai-Hinh\obj\Debug\net7.0\Hien-Thi-Cac-Loai-Hinh.AssemblyInfo.cs
+D:\Thao trinh\Dev\Bai-Tap-Code\Hien-Thi-Cac-Loai-Hinh\obj\Debug\net7.0\Hien-Thi-Cac-Loai-Hinh.csproj.CoreCompileInputs.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Hien-Thi-Cac-Loai-Hinh\obj\Debug\net7.0\Hien-Thi-Cac-Loai-Hinh.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Hien-Thi-Cac-Loai-Hinh\obj\Debug\net7.0\refint\Hien-Thi-Cac-Loai-Hinh.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Hien-Thi-Cac-Loai-Hinh\obj\Debug\net7.0\Hien-Thi-Cac-Loai-Hinh.pdb
+D:\Thao trinh\Dev\Bai-Tap-Code\Hien-Thi-Cac-Loai-Hinh\obj\Debug\net7.0\Hien-Thi-Cac-Loai-Hinh.genruntimeconfig.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Hien-Thi-Cac-Loai-Hinh\obj\Debug\net7.0\ref\Hien-Thi-Cac-Loai-Hinh.dll
