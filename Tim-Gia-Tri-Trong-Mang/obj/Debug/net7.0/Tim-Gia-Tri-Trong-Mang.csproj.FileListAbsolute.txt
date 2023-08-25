@@ -1,0 +1,15 @@
+D:\Thao trinh\Dev\Bai-Tap-Code\Tim-Gia-Tri-Trong-Mang\bin\Debug\net7.0\Tim-Gia-Tri-Trong-Mang.exe
+D:\Thao trinh\Dev\Bai-Tap-Code\Tim-Gia-Tri-Trong-Mang\bin\Debug\net7.0\Tim-Gia-Tri-Trong-Mang.deps.json
+D:\Thao trinh\Dev\Bai-Tap-Code\Tim-Gia-Tri-Trong-Mang\bin\Debug\net7.0\Tim-Gia-Tri-Trong-Mang.runtimeconfig.json
+D:\Thao trinh\Dev\Bai-Tap-Code\Tim-Gia-Tri-Trong-Mang\bin\Debug\net7.0\Tim-Gia-Tri-Trong-Mang.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Tim-Gia-Tri-Trong-Mang\bin\Debug\net7.0\Tim-Gia-Tri-Trong-Mang.pdb
+D:\Thao trinh\Dev\Bai-Tap-Code\Tim-Gia-Tri-Trong-Mang\obj\Debug\net7.0\Tim-Gia-Tri-Trong-Mang.csproj.AssemblyReference.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Tim-Gia-Tri-Trong-Mang\obj\Debug\net7.0\Tim-Gia-Tri-Trong-Mang.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thao trinh\Dev\Bai-Tap-Code\Tim-Gia-Tri-Trong-Mang\obj\Debug\net7.0\Tim-Gia-Tri-Trong-Mang.AssemblyInfoInputs.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Tim-Gia-Tri-Trong-Mang\obj\Debug\net7.0\Tim-Gia-Tri-Trong-Mang.AssemblyInfo.cs
+D:\Thao trinh\Dev\Bai-Tap-Code\Tim-Gia-Tri-Trong-Mang\obj\Debug\net7.0\Tim-Gia-Tri-Trong-Mang.csproj.CoreCompileInputs.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Tim-Gia-Tri-Trong-Mang\obj\Debug\net7.0\Tim-Gia-Tri-Trong-Mang.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Tim-Gia-Tri-Trong-Mang\obj\Debug\net7.0\refint\Tim-Gia-Tri-Trong-Mang.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Tim-Gia-Tri-Trong-Mang\obj\Debug\net7.0\Tim-Gia-Tri-Trong-Mang.pdb
+D:\Thao trinh\Dev\Bai-Tap-Code\Tim-Gia-Tri-Trong-Mang\obj\Debug\net7.0\Tim-Gia-Tri-Trong-Mang.genruntimeconfig.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Tim-Gia-Tri-Trong-Mang\obj\Debug\net7.0\ref\Tim-Gia-Tri-Trong-Mang.dll

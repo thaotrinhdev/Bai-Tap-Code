@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Tim-Gia-Tri-Trong-Mang/1.0.0": {
+        "runtime": {
+          "Tim-Gia-Tri-Trong-Mang.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tim-Gia-Tri-Trong-Mang/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
