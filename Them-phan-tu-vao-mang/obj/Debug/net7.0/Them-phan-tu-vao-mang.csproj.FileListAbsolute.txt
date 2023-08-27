@@ -1,0 +1,15 @@
+D:\Thao trinh\Dev\Bai-Tap-Code\Them-phan-tu-vao-mang\bin\Debug\net7.0\Them-phan-tu-vao-mang.exe
+D:\Thao trinh\Dev\Bai-Tap-Code\Them-phan-tu-vao-mang\bin\Debug\net7.0\Them-phan-tu-vao-mang.deps.json
+D:\Thao trinh\Dev\Bai-Tap-Code\Them-phan-tu-vao-mang\bin\Debug\net7.0\Them-phan-tu-vao-mang.runtimeconfig.json
+D:\Thao trinh\Dev\Bai-Tap-Code\Them-phan-tu-vao-mang\bin\Debug\net7.0\Them-phan-tu-vao-mang.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Them-phan-tu-vao-mang\bin\Debug\net7.0\Them-phan-tu-vao-mang.pdb
+D:\Thao trinh\Dev\Bai-Tap-Code\Them-phan-tu-vao-mang\obj\Debug\net7.0\Them-phan-tu-vao-mang.csproj.AssemblyReference.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Them-phan-tu-vao-mang\obj\Debug\net7.0\Them-phan-tu-vao-mang.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thao trinh\Dev\Bai-Tap-Code\Them-phan-tu-vao-mang\obj\Debug\net7.0\Them-phan-tu-vao-mang.AssemblyInfoInputs.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Them-phan-tu-vao-mang\obj\Debug\net7.0\Them-phan-tu-vao-mang.AssemblyInfo.cs
+D:\Thao trinh\Dev\Bai-Tap-Code\Them-phan-tu-vao-mang\obj\Debug\net7.0\Them-phan-tu-vao-mang.csproj.CoreCompileInputs.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Them-phan-tu-vao-mang\obj\Debug\net7.0\Them-phan-tu-vao-mang.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Them-phan-tu-vao-mang\obj\Debug\net7.0\refint\Them-phan-tu-vao-mang.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Them-phan-tu-vao-mang\obj\Debug\net7.0\Them-phan-tu-vao-mang.pdb
+D:\Thao trinh\Dev\Bai-Tap-Code\Them-phan-tu-vao-mang\obj\Debug\net7.0\Them-phan-tu-vao-mang.genruntimeconfig.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Them-phan-tu-vao-mang\obj\Debug\net7.0\ref\Them-phan-tu-vao-mang.dll
