@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Tim-gia-tri-lon-nhat-mang-2-chieu/1.0.0": {
+        "runtime": {
+          "Tim-gia-tri-lon-nhat-mang-2-chieu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tim-gia-tri-lon-nhat-mang-2-chieu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
