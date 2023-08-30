@@ -1,0 +1,15 @@
+D:\Thao trinh\Dev\Bai-Tap-Code\Chuyen-doi-nhiet-do\bin\Debug\net7.0\Chuyen-doi-nhiet-do.exe
+D:\Thao trinh\Dev\Bai-Tap-Code\Chuyen-doi-nhiet-do\bin\Debug\net7.0\Chuyen-doi-nhiet-do.deps.json
+D:\Thao trinh\Dev\Bai-Tap-Code\Chuyen-doi-nhiet-do\bin\Debug\net7.0\Chuyen-doi-nhiet-do.runtimeconfig.json
+D:\Thao trinh\Dev\Bai-Tap-Code\Chuyen-doi-nhiet-do\bin\Debug\net7.0\Chuyen-doi-nhiet-do.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Chuyen-doi-nhiet-do\bin\Debug\net7.0\Chuyen-doi-nhiet-do.pdb
+D:\Thao trinh\Dev\Bai-Tap-Code\Chuyen-doi-nhiet-do\obj\Debug\net7.0\Chuyen-doi-nhiet-do.csproj.AssemblyReference.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Chuyen-doi-nhiet-do\obj\Debug\net7.0\Chuyen-doi-nhiet-do.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thao trinh\Dev\Bai-Tap-Code\Chuyen-doi-nhiet-do\obj\Debug\net7.0\Chuyen-doi-nhiet-do.AssemblyInfoInputs.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Chuyen-doi-nhiet-do\obj\Debug\net7.0\Chuyen-doi-nhiet-do.AssemblyInfo.cs
+D:\Thao trinh\Dev\Bai-Tap-Code\Chuyen-doi-nhiet-do\obj\Debug\net7.0\Chuyen-doi-nhiet-do.csproj.CoreCompileInputs.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Chuyen-doi-nhiet-do\obj\Debug\net7.0\Chuyen-doi-nhiet-do.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Chuyen-doi-nhiet-do\obj\Debug\net7.0\refint\Chuyen-doi-nhiet-do.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Chuyen-doi-nhiet-do\obj\Debug\net7.0\Chuyen-doi-nhiet-do.pdb
+D:\Thao trinh\Dev\Bai-Tap-Code\Chuyen-doi-nhiet-do\obj\Debug\net7.0\Chuyen-doi-nhiet-do.genruntimeconfig.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Chuyen-doi-nhiet-do\obj\Debug\net7.0\ref\Chuyen-doi-nhiet-do.dll
