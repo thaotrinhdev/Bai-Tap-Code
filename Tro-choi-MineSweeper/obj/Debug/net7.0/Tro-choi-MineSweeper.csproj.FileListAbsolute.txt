@@ -1,0 +1,15 @@
+D:\Thao trinh\Dev\Bai-Tap-Code\Tro-choi-MineSweeper\bin\Debug\net7.0\Tro-choi-MineSweeper.exe
+D:\Thao trinh\Dev\Bai-Tap-Code\Tro-choi-MineSweeper\bin\Debug\net7.0\Tro-choi-MineSweeper.deps.json
+D:\Thao trinh\Dev\Bai-Tap-Code\Tro-choi-MineSweeper\bin\Debug\net7.0\Tro-choi-MineSweeper.runtimeconfig.json
+D:\Thao trinh\Dev\Bai-Tap-Code\Tro-choi-MineSweeper\bin\Debug\net7.0\Tro-choi-MineSweeper.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Tro-choi-MineSweeper\bin\Debug\net7.0\Tro-choi-MineSweeper.pdb
+D:\Thao trinh\Dev\Bai-Tap-Code\Tro-choi-MineSweeper\obj\Debug\net7.0\Tro-choi-MineSweeper.csproj.AssemblyReference.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Tro-choi-MineSweeper\obj\Debug\net7.0\Tro-choi-MineSweeper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thao trinh\Dev\Bai-Tap-Code\Tro-choi-MineSweeper\obj\Debug\net7.0\Tro-choi-MineSweeper.AssemblyInfoInputs.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Tro-choi-MineSweeper\obj\Debug\net7.0\Tro-choi-MineSweeper.AssemblyInfo.cs
+D:\Thao trinh\Dev\Bai-Tap-Code\Tro-choi-MineSweeper\obj\Debug\net7.0\Tro-choi-MineSweeper.csproj.CoreCompileInputs.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Tro-choi-MineSweeper\obj\Debug\net7.0\Tro-choi-MineSweeper.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Tro-choi-MineSweeper\obj\Debug\net7.0\refint\Tro-choi-MineSweeper.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Tro-choi-MineSweeper\obj\Debug\net7.0\Tro-choi-MineSweeper.pdb
+D:\Thao trinh\Dev\Bai-Tap-Code\Tro-choi-MineSweeper\obj\Debug\net7.0\Tro-choi-MineSweeper.genruntimeconfig.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Tro-choi-MineSweeper\obj\Debug\net7.0\ref\Tro-choi-MineSweeper.dll
