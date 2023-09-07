@@ -1,0 +1,15 @@
+D:\Thao trinh\Dev\Bai-Tap-Code\Xoa-gia-tri-trong-mang\bin\Debug\net7.0\Xoa-gia-tri-trong-mang.exe
+D:\Thao trinh\Dev\Bai-Tap-Code\Xoa-gia-tri-trong-mang\bin\Debug\net7.0\Xoa-gia-tri-trong-mang.deps.json
+D:\Thao trinh\Dev\Bai-Tap-Code\Xoa-gia-tri-trong-mang\bin\Debug\net7.0\Xoa-gia-tri-trong-mang.runtimeconfig.json
+D:\Thao trinh\Dev\Bai-Tap-Code\Xoa-gia-tri-trong-mang\bin\Debug\net7.0\Xoa-gia-tri-trong-mang.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Xoa-gia-tri-trong-mang\bin\Debug\net7.0\Xoa-gia-tri-trong-mang.pdb
+D:\Thao trinh\Dev\Bai-Tap-Code\Xoa-gia-tri-trong-mang\obj\Debug\net7.0\Xoa-gia-tri-trong-mang.csproj.AssemblyReference.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Xoa-gia-tri-trong-mang\obj\Debug\net7.0\Xoa-gia-tri-trong-mang.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thao trinh\Dev\Bai-Tap-Code\Xoa-gia-tri-trong-mang\obj\Debug\net7.0\Xoa-gia-tri-trong-mang.AssemblyInfoInputs.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Xoa-gia-tri-trong-mang\obj\Debug\net7.0\Xoa-gia-tri-trong-mang.AssemblyInfo.cs
+D:\Thao trinh\Dev\Bai-Tap-Code\Xoa-gia-tri-trong-mang\obj\Debug\net7.0\Xoa-gia-tri-trong-mang.csproj.CoreCompileInputs.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Xoa-gia-tri-trong-mang\obj\Debug\net7.0\Xoa-gia-tri-trong-mang.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Xoa-gia-tri-trong-mang\obj\Debug\net7.0\refint\Xoa-gia-tri-trong-mang.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Xoa-gia-tri-trong-mang\obj\Debug\net7.0\Xoa-gia-tri-trong-mang.pdb
+D:\Thao trinh\Dev\Bai-Tap-Code\Xoa-gia-tri-trong-mang\obj\Debug\net7.0\Xoa-gia-tri-trong-mang.genruntimeconfig.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Xoa-gia-tri-trong-mang\obj\Debug\net7.0\ref\Xoa-gia-tri-trong-mang.dll

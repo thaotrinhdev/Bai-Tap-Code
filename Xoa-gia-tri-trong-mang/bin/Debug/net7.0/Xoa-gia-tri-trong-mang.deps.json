@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Xoa-gia-tri-trong-mang/1.0.0": {
+        "runtime": {
+          "Xoa-gia-tri-trong-mang.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Xoa-gia-tri-trong-mang/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
