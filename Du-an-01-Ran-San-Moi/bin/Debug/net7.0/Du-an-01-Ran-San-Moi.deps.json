@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Du-an-01-Ran-San-Moi/1.0.0": {
+        "runtime": {
+          "Du-an-01-Ran-San-Moi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Du-an-01-Ran-San-Moi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
