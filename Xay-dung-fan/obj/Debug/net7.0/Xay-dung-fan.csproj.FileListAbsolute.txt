@@ -1,0 +1,15 @@
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-fan\bin\Debug\net7.0\Xay-dung-fan.exe
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-fan\bin\Debug\net7.0\Xay-dung-fan.deps.json
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-fan\bin\Debug\net7.0\Xay-dung-fan.runtimeconfig.json
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-fan\bin\Debug\net7.0\Xay-dung-fan.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-fan\bin\Debug\net7.0\Xay-dung-fan.pdb
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-fan\obj\Debug\net7.0\Xay-dung-fan.csproj.AssemblyReference.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-fan\obj\Debug\net7.0\Xay-dung-fan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-fan\obj\Debug\net7.0\Xay-dung-fan.AssemblyInfoInputs.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-fan\obj\Debug\net7.0\Xay-dung-fan.AssemblyInfo.cs
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-fan\obj\Debug\net7.0\Xay-dung-fan.csproj.CoreCompileInputs.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-fan\obj\Debug\net7.0\Xay-dung-fan.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-fan\obj\Debug\net7.0\refint\Xay-dung-fan.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-fan\obj\Debug\net7.0\Xay-dung-fan.pdb
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-fan\obj\Debug\net7.0\Xay-dung-fan.genruntimeconfig.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-fan\obj\Debug\net7.0\ref\Xay-dung-fan.dll
