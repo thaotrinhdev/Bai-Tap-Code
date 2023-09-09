@@ -1,0 +1,15 @@
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-class-animal\bin\Debug\net7.0\Xay-dung-class-animal.exe
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-class-animal\bin\Debug\net7.0\Xay-dung-class-animal.deps.json
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-class-animal\bin\Debug\net7.0\Xay-dung-class-animal.runtimeconfig.json
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-class-animal\bin\Debug\net7.0\Xay-dung-class-animal.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-class-animal\bin\Debug\net7.0\Xay-dung-class-animal.pdb
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-class-animal\obj\Debug\net7.0\Xay-dung-class-animal.csproj.AssemblyReference.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-class-animal\obj\Debug\net7.0\Xay-dung-class-animal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-class-animal\obj\Debug\net7.0\Xay-dung-class-animal.AssemblyInfoInputs.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-class-animal\obj\Debug\net7.0\Xay-dung-class-animal.AssemblyInfo.cs
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-class-animal\obj\Debug\net7.0\Xay-dung-class-animal.csproj.CoreCompileInputs.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-class-animal\obj\Debug\net7.0\Xay-dung-class-animal.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-class-animal\obj\Debug\net7.0\refint\Xay-dung-class-animal.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-class-animal\obj\Debug\net7.0\Xay-dung-class-animal.pdb
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-class-animal\obj\Debug\net7.0\Xay-dung-class-animal.genruntimeconfig.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-class-animal\obj\Debug\net7.0\ref\Xay-dung-class-animal.dll
