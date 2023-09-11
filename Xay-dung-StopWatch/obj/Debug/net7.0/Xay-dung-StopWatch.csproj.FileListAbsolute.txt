@@ -1,0 +1,15 @@
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-StopWatch\bin\Debug\net7.0\Xay-dung-StopWatch.exe
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-StopWatch\bin\Debug\net7.0\Xay-dung-StopWatch.deps.json
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-StopWatch\bin\Debug\net7.0\Xay-dung-StopWatch.runtimeconfig.json
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-StopWatch\bin\Debug\net7.0\Xay-dung-StopWatch.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-StopWatch\bin\Debug\net7.0\Xay-dung-StopWatch.pdb
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-StopWatch\obj\Debug\net7.0\Xay-dung-StopWatch.csproj.AssemblyReference.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-StopWatch\obj\Debug\net7.0\Xay-dung-StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-StopWatch\obj\Debug\net7.0\Xay-dung-StopWatch.AssemblyInfoInputs.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-StopWatch\obj\Debug\net7.0\Xay-dung-StopWatch.AssemblyInfo.cs
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-StopWatch\obj\Debug\net7.0\Xay-dung-StopWatch.csproj.CoreCompileInputs.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-StopWatch\obj\Debug\net7.0\Xay-dung-StopWatch.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-StopWatch\obj\Debug\net7.0\refint\Xay-dung-StopWatch.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-StopWatch\obj\Debug\net7.0\Xay-dung-StopWatch.pdb
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-StopWatch\obj\Debug\net7.0\Xay-dung-StopWatch.genruntimeconfig.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Xay-dung-StopWatch\obj\Debug\net7.0\ref\Xay-dung-StopWatch.dll
