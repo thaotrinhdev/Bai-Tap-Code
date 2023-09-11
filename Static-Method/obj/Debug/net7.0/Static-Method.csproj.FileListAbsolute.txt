@@ -1,0 +1,15 @@
+D:\Thao trinh\Dev\Bai-Tap-Code\Static-Method\bin\Debug\net7.0\Static-Method.exe
+D:\Thao trinh\Dev\Bai-Tap-Code\Static-Method\bin\Debug\net7.0\Static-Method.deps.json
+D:\Thao trinh\Dev\Bai-Tap-Code\Static-Method\bin\Debug\net7.0\Static-Method.runtimeconfig.json
+D:\Thao trinh\Dev\Bai-Tap-Code\Static-Method\bin\Debug\net7.0\Static-Method.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Static-Method\bin\Debug\net7.0\Static-Method.pdb
+D:\Thao trinh\Dev\Bai-Tap-Code\Static-Method\obj\Debug\net7.0\Static-Method.csproj.AssemblyReference.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Static-Method\obj\Debug\net7.0\Static-Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thao trinh\Dev\Bai-Tap-Code\Static-Method\obj\Debug\net7.0\Static-Method.AssemblyInfoInputs.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Static-Method\obj\Debug\net7.0\Static-Method.AssemblyInfo.cs
+D:\Thao trinh\Dev\Bai-Tap-Code\Static-Method\obj\Debug\net7.0\Static-Method.csproj.CoreCompileInputs.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Static-Method\obj\Debug\net7.0\Static-Method.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Static-Method\obj\Debug\net7.0\refint\Static-Method.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Static-Method\obj\Debug\net7.0\Static-Method.pdb
+D:\Thao trinh\Dev\Bai-Tap-Code\Static-Method\obj\Debug\net7.0\Static-Method.genruntimeconfig.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Static-Method\obj\Debug\net7.0\ref\Static-Method.dll
