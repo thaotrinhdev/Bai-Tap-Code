@@ -1,0 +1,15 @@
+D:\Thao trinh\Dev\Bai-Tap-Code\Lop-Circle-Cylinder\obj\Debug\net7.0\Lop-Circle-Cylinder.csproj.AssemblyReference.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Lop-Circle-Cylinder\obj\Debug\net7.0\Lop-Circle-Cylinder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thao trinh\Dev\Bai-Tap-Code\Lop-Circle-Cylinder\obj\Debug\net7.0\Lop-Circle-Cylinder.AssemblyInfoInputs.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Lop-Circle-Cylinder\obj\Debug\net7.0\Lop-Circle-Cylinder.AssemblyInfo.cs
+D:\Thao trinh\Dev\Bai-Tap-Code\Lop-Circle-Cylinder\obj\Debug\net7.0\Lop-Circle-Cylinder.csproj.CoreCompileInputs.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Lop-Circle-Cylinder\bin\Debug\net7.0\Lop-Circle-Cylinder.exe
+D:\Thao trinh\Dev\Bai-Tap-Code\Lop-Circle-Cylinder\bin\Debug\net7.0\Lop-Circle-Cylinder.deps.json
+D:\Thao trinh\Dev\Bai-Tap-Code\Lop-Circle-Cylinder\bin\Debug\net7.0\Lop-Circle-Cylinder.runtimeconfig.json
+D:\Thao trinh\Dev\Bai-Tap-Code\Lop-Circle-Cylinder\bin\Debug\net7.0\Lop-Circle-Cylinder.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Lop-Circle-Cylinder\bin\Debug\net7.0\Lop-Circle-Cylinder.pdb
+D:\Thao trinh\Dev\Bai-Tap-Code\Lop-Circle-Cylinder\obj\Debug\net7.0\Lop-Circle-Cylinder.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Lop-Circle-Cylinder\obj\Debug\net7.0\refint\Lop-Circle-Cylinder.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Lop-Circle-Cylinder\obj\Debug\net7.0\Lop-Circle-Cylinder.pdb
+D:\Thao trinh\Dev\Bai-Tap-Code\Lop-Circle-Cylinder\obj\Debug\net7.0\Lop-Circle-Cylinder.genruntimeconfig.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Lop-Circle-Cylinder\obj\Debug\net7.0\ref\Lop-Circle-Cylinder.dll
