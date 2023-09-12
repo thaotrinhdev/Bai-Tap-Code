@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "He-cac-doi-tuong-hinh-hoc/1.0.0": {
+        "runtime": {
+          "He-cac-doi-tuong-hinh-hoc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "He-cac-doi-tuong-hinh-hoc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
