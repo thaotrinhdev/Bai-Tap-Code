@@ -1,0 +1,15 @@
+D:\Thao trinh\Dev\Bai-Tap-Code\Point2D-Point3D\bin\Debug\net7.0\Point2D-Point3D.exe
+D:\Thao trinh\Dev\Bai-Tap-Code\Point2D-Point3D\bin\Debug\net7.0\Point2D-Point3D.deps.json
+D:\Thao trinh\Dev\Bai-Tap-Code\Point2D-Point3D\bin\Debug\net7.0\Point2D-Point3D.runtimeconfig.json
+D:\Thao trinh\Dev\Bai-Tap-Code\Point2D-Point3D\bin\Debug\net7.0\Point2D-Point3D.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Point2D-Point3D\bin\Debug\net7.0\Point2D-Point3D.pdb
+D:\Thao trinh\Dev\Bai-Tap-Code\Point2D-Point3D\obj\Debug\net7.0\Point2D-Point3D.csproj.AssemblyReference.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Point2D-Point3D\obj\Debug\net7.0\Point2D-Point3D.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thao trinh\Dev\Bai-Tap-Code\Point2D-Point3D\obj\Debug\net7.0\Point2D-Point3D.AssemblyInfoInputs.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Point2D-Point3D\obj\Debug\net7.0\Point2D-Point3D.AssemblyInfo.cs
+D:\Thao trinh\Dev\Bai-Tap-Code\Point2D-Point3D\obj\Debug\net7.0\Point2D-Point3D.csproj.CoreCompileInputs.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Point2D-Point3D\obj\Debug\net7.0\Point2D-Point3D.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Point2D-Point3D\obj\Debug\net7.0\refint\Point2D-Point3D.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Point2D-Point3D\obj\Debug\net7.0\Point2D-Point3D.pdb
+D:\Thao trinh\Dev\Bai-Tap-Code\Point2D-Point3D\obj\Debug\net7.0\Point2D-Point3D.genruntimeconfig.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Point2D-Point3D\obj\Debug\net7.0\ref\Point2D-Point3D.dll
