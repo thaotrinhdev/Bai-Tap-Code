@@ -1,0 +1,15 @@
+D:\Thao trinh\Dev\Bai-Tap-Code\Doc-XML\bin\Debug\net7.0\Doc-XML.exe
+D:\Thao trinh\Dev\Bai-Tap-Code\Doc-XML\bin\Debug\net7.0\Doc-XML.deps.json
+D:\Thao trinh\Dev\Bai-Tap-Code\Doc-XML\bin\Debug\net7.0\Doc-XML.runtimeconfig.json
+D:\Thao trinh\Dev\Bai-Tap-Code\Doc-XML\bin\Debug\net7.0\Doc-XML.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Doc-XML\bin\Debug\net7.0\Doc-XML.pdb
+D:\Thao trinh\Dev\Bai-Tap-Code\Doc-XML\obj\Debug\net7.0\Doc-XML.csproj.AssemblyReference.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Doc-XML\obj\Debug\net7.0\Doc-XML.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thao trinh\Dev\Bai-Tap-Code\Doc-XML\obj\Debug\net7.0\Doc-XML.AssemblyInfoInputs.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Doc-XML\obj\Debug\net7.0\Doc-XML.AssemblyInfo.cs
+D:\Thao trinh\Dev\Bai-Tap-Code\Doc-XML\obj\Debug\net7.0\Doc-XML.csproj.CoreCompileInputs.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Doc-XML\obj\Debug\net7.0\Doc-XML.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Doc-XML\obj\Debug\net7.0\refint\Doc-XML.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Doc-XML\obj\Debug\net7.0\Doc-XML.pdb
+D:\Thao trinh\Dev\Bai-Tap-Code\Doc-XML\obj\Debug\net7.0\Doc-XML.genruntimeconfig.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Doc-XML\obj\Debug\net7.0\ref\Doc-XML.dll
