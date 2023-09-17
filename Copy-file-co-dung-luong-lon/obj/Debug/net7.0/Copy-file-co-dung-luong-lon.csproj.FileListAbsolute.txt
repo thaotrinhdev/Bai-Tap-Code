@@ -1,0 +1,15 @@
+D:\Thao trinh\Dev\Bai-Tap-Code\Copy-file-co-dung-luong-lon\bin\Debug\net7.0\Copy-file-co-dung-luong-lon.exe
+D:\Thao trinh\Dev\Bai-Tap-Code\Copy-file-co-dung-luong-lon\bin\Debug\net7.0\Copy-file-co-dung-luong-lon.deps.json
+D:\Thao trinh\Dev\Bai-Tap-Code\Copy-file-co-dung-luong-lon\bin\Debug\net7.0\Copy-file-co-dung-luong-lon.runtimeconfig.json
+D:\Thao trinh\Dev\Bai-Tap-Code\Copy-file-co-dung-luong-lon\bin\Debug\net7.0\Copy-file-co-dung-luong-lon.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Copy-file-co-dung-luong-lon\bin\Debug\net7.0\Copy-file-co-dung-luong-lon.pdb
+D:\Thao trinh\Dev\Bai-Tap-Code\Copy-file-co-dung-luong-lon\obj\Debug\net7.0\Copy-file-co-dung-luong-lon.csproj.AssemblyReference.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Copy-file-co-dung-luong-lon\obj\Debug\net7.0\Copy-file-co-dung-luong-lon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thao trinh\Dev\Bai-Tap-Code\Copy-file-co-dung-luong-lon\obj\Debug\net7.0\Copy-file-co-dung-luong-lon.AssemblyInfoInputs.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Copy-file-co-dung-luong-lon\obj\Debug\net7.0\Copy-file-co-dung-luong-lon.AssemblyInfo.cs
+D:\Thao trinh\Dev\Bai-Tap-Code\Copy-file-co-dung-luong-lon\obj\Debug\net7.0\Copy-file-co-dung-luong-lon.csproj.CoreCompileInputs.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Copy-file-co-dung-luong-lon\obj\Debug\net7.0\Copy-file-co-dung-luong-lon.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Copy-file-co-dung-luong-lon\obj\Debug\net7.0\refint\Copy-file-co-dung-luong-lon.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Copy-file-co-dung-luong-lon\obj\Debug\net7.0\Copy-file-co-dung-luong-lon.pdb
+D:\Thao trinh\Dev\Bai-Tap-Code\Copy-file-co-dung-luong-lon\obj\Debug\net7.0\Copy-file-co-dung-luong-lon.genruntimeconfig.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Copy-file-co-dung-luong-lon\obj\Debug\net7.0\ref\Copy-file-co-dung-luong-lon.dll

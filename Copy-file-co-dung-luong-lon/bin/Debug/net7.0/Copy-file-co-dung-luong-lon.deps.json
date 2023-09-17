@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Copy-file-co-dung-luong-lon/1.0.0": {
+        "runtime": {
+          "Copy-file-co-dung-luong-lon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Copy-file-co-dung-luong-lon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
