@@ -1,0 +1,15 @@
+D:\Thao trinh\Dev\Bai-Tap-Code\Doc-CSV\bin\Debug\net7.0\Doc-CSV.exe
+D:\Thao trinh\Dev\Bai-Tap-Code\Doc-CSV\bin\Debug\net7.0\Doc-CSV.deps.json
+D:\Thao trinh\Dev\Bai-Tap-Code\Doc-CSV\bin\Debug\net7.0\Doc-CSV.runtimeconfig.json
+D:\Thao trinh\Dev\Bai-Tap-Code\Doc-CSV\bin\Debug\net7.0\Doc-CSV.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Doc-CSV\bin\Debug\net7.0\Doc-CSV.pdb
+D:\Thao trinh\Dev\Bai-Tap-Code\Doc-CSV\obj\Debug\net7.0\Doc-CSV.csproj.AssemblyReference.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Doc-CSV\obj\Debug\net7.0\Doc-CSV.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thao trinh\Dev\Bai-Tap-Code\Doc-CSV\obj\Debug\net7.0\Doc-CSV.AssemblyInfoInputs.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Doc-CSV\obj\Debug\net7.0\Doc-CSV.AssemblyInfo.cs
+D:\Thao trinh\Dev\Bai-Tap-Code\Doc-CSV\obj\Debug\net7.0\Doc-CSV.csproj.CoreCompileInputs.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Doc-CSV\obj\Debug\net7.0\Doc-CSV.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Doc-CSV\obj\Debug\net7.0\refint\Doc-CSV.dll
+D:\Thao trinh\Dev\Bai-Tap-Code\Doc-CSV\obj\Debug\net7.0\Doc-CSV.pdb
+D:\Thao trinh\Dev\Bai-Tap-Code\Doc-CSV\obj\Debug\net7.0\Doc-CSV.genruntimeconfig.cache
+D:\Thao trinh\Dev\Bai-Tap-Code\Doc-CSV\obj\Debug\net7.0\ref\Doc-CSV.dll
